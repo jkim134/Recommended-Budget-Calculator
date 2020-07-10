@@ -12,7 +12,7 @@ def main():
         print('Housing is 25%:\n $', format(round(your_budget *.25,2), '.2f'))
         print('Insurance is 15%:\n $', format(round(your_budget *.15,2), '.2f'))
         print('Food is 10%:\n $', format(round(your_budget *.10,2), '.2f'))
-        print('Transportion is 5%:\n $', format(round(your_budget *.05,2), '.2f'))
+        print('Transportation is 5%:\n $', format(round(your_budget *.05,2), '.2f'))
         print('Utilities is 5%:\n $', format(round(your_budget *.05,2), '.2f'))
         print('Savings is 15%:\n $', format(round(your_budget *.15,2), '.2f'))
         print('Entertainment is 10%:\n $', format(round(your_budget *.10,2), '.2f'))
