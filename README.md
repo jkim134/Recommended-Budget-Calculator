@@ -1,1 +1,2 @@
-# Recommended-Budget-Calculator
+Recommended Budget Calculator Project
+
