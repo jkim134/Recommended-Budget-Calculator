@@ -17,6 +17,19 @@ def main():
         print('Giving is 10%:\n $', your_budget *.10)
         print('Personal is 5%:\n $', your_budget *.05)
         print()
-
+        print('Menu:')
+        print('1 to Add your income: ')
+        print('Q to Quit')
+        choice = input('Select 1 or Q: ')
+        if choice == '1':
+            your_budget = addincome(your_budget)
+        elif choice == 'q':
+            print('Goodbye!')
+            break
+        elif choice == 'Q':
+            print('Thank You!')
+            break
+        else:
+            print('Invalid selection, please select 1 or Q')
 
 main()
