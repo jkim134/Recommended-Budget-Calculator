@@ -32,4 +32,13 @@ def main():
         else:
             print('Invalid selection, please select 1 or Q')
 
+def addincome(your_budget):
+    income = float(input('Enter income: $'))
+    your_budget = income
+    if your_budget >= 1:
+        return your_budget
+    else:
+        print('Please enter amount over $1')
+        return addincome(your_budget)
+
 main()
