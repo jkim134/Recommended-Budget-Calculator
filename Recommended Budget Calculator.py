@@ -1,3 +1,5 @@
+recommendation_budget = 0
+
 def main():
     print()
     print('Basic Recommended Budget From Chime.com' ) 
@@ -7,15 +9,15 @@ def main():
     while budget_program == 'Recommendation Budget':
         print()
         print('YOUR RECOMMENDED BUDGET CATEGORY PERCENTAGES!')        
-        print('Housing is 25%:\n $', your_budget *.25)
-        print('Insurance is 15%:\n $', your_budget *.15)
-        print('Food is 10%:\n $', your_budget *.10)
-        print('Transportation is 5%:\n $', your_budget *.05)
-        print('Utilities is 5%:\n $'), your_budget *.05)
-        print('Savings is 15%:\n $'), your_budget *.15)
-        print('Entertainment is 10%:\n $', your_budget *.10)
-        print('Giving is 10%:\n $', your_budget *.10)
-        print('Personal is 5%:\n $', your_budget *.05)
+        print('Housing is 25%:\n $', round(your_budget *.25,2))
+        print('Insurance is 15%:\n $', round(your_budget *.15,2))
+        print('Food is 10%:\n $', round(your_budget *.10,2))
+        print('Transportation is 5%:\n $', round(your_budget *.05,2))
+        print('Utilities is 5%:\n $', round(your_budget *.05,2))
+        print('Savings is 15%:\n $', round(your_budget *.15,2))
+        print('Entertainment is 10%:\n $', round(your_budget *.10,2))
+        print('Giving is 10%:\n $', round(your_budget *.10,2))
+        print('Personal is 5%:\n $', round(your_budget *.05,2))
         print()
         print('Menu:')
         print('1 to Add your income: ')
