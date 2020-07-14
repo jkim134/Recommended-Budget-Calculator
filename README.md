@@ -12,4 +12,4 @@ https://github.com/ksu-is/Budgeting</p>
 
 <p>Thank you!</p> 
 
-<h4>Project by Van Luong</h4>
+<h3>Project by Van Luong</h3>
