@@ -8,11 +8,13 @@
 <p>  [DONE] 5.1 Find related python code.</p>
 <p>    https://github.com/ksu-is/Budgeting</p>
 <p>  [DONE] 5.2 Evaluate code and note down findings.</p>
-<p>    Code ran in Mircosoft Visual Studio Code.</p>
-<p>    Will use in project.</p>
-<p>    Need to add calculations.</p>
-<p>    Don't need expense function.</p>
-<p>    Make Q for quit.</p>
+<ul>
+<li>  Code ran in Mircosoft Visual Studio Code.</li>
+<li>    Will use in project.</li>
+<li>    Need to add calculations.</li>
+<li>    Don't need expense function.</li>
+<li>    Make Q for quit.</li>
+</ul>  
   
 <p>[DONE] 6. Each person should making small updates and adding commit messages with them in your repository in our Github organization so that your work is visible. Do this with Github desktop. Otherwise, it will appear you are not working, and you will fail to demonstrate your knowledge of the application development process, which is one of our course goals. Thus, even if you claim to be working on your own machine but fail to post updates in Github in our shared organization where the professor can see them, you will fail on this grading item. Each person should have committed at least 6 code changes of significant size (not just a spelling error fix for example). Each commit should include a comment that explains what you did. The comment must be specific (ie. not just Updated README.md but rather explain what your update was and why you did it briefly).
 <p>  [DONE] 6.1 At least 6 code changes 
