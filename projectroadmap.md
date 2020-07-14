@@ -31,3 +31,13 @@
 </ul>  
 
 <p>[DONE] 1. We will be looking at presentations and talking about the results during our final exam period (for non-online classes). We might experiment with some of the code too. This last date is worth some of the grade, but you can only earn the credit if you have turned in the presentation video in advance of the presentation time.</p>
+
+<h2>Project Planning Needs</h2>
+<ul>
+<li>[DONE] Want an insert income option for input</li>
+<li>[DONE] Automatically calculates each of the Basic Recommended Budget Category Percentages from Chime</li>
+<li>[DONE] Needs to be in money for format</li>
+<li>[DONE] Needs to round to the nearest cent</li>
+<li>[DONE] Option to quit and exit program</li>
+<li>[DONE] Have a select menu</li>
+</ul>
