@@ -4,7 +4,7 @@
 <p>[DONE] 2. Each person should have established a Github account and joined our class organization (KSU-IS) in Github by accepting the invite email.
 <p>[DONE] 3. Each person should also be associated with ownership of a code repository in our Github organization. If on a team, ensure each has Owner or Maintainer Role.
 <p>[DONE] 4. Each person should have edited and committed changes in a readme.md file in their repository in our Github organization. The commits should show in Github.
-<p>[DONE] 5. Each person should have explored at least one existing Python code base related to their project to evaluate using it in their project and submitted updates to the projectroadmap.md file explaining their findings. In evaluating your codebase, you should have read the code and attempted to run it yourself.
+<p>[DONE] 5. Each person should have explored at least one existing Python code base related to their project to evaluate using it in their project and submitted updates to the projectroadmap.md file explaining their findings. In evaluating your codebase, you should have read the code and attempted to run it yourself.</p>
 <p>  [DONE] 5.1 Find related python code.
     https://github.com/ksu-is/Budgeting
 <p>  [DONE] 5.2 Evaluate code and note down findings.
