@@ -22,10 +22,10 @@
 <p>    [DONE] 7.1 Add "DONE" to finsihed processes and tasks.
     
 <p>[DONE] 8. Continue coding and refining and testing in Sprint 3 as in Sprint 2. I will look for additional progress. If you had minor scope for your project and finish already, you need to add more scope and work on it. 
-<p>[] 9. Create one PowerPoint slide introducing your project and upload it. If you have more than one teammate, each needs to turn-in a copy in D2L to ensure everyone has a copy. The slide needs to be attractive and informative. Be sure to include this information:
-<p>  [] 1. List your project team members.
-<p>  [] 1. Show the title of your project.
-<p>  [] 1. Show a tag line that introduces the main concept of what it does/will do.
-<p>  [] 1. Show 1-2 screenshots or pictures demonstrating the idea or parts (optional) Each person must upload a PPT slide in D2L. Each team must ensure there is a copy in their Github repository so that future coders can quickly grasp the idea.
+<p>[DONE] 9. Create one PowerPoint slide introducing your project and upload it. If you have more than one teammate, each needs to turn-in a copy in D2L to ensure everyone has a copy. The slide needs to be attractive and informative. Be sure to include this information:
+<p>  [DONE] 1. List your project team members.
+<p>  [DONE] 1. Show the title of your project.
+<p>  [DONE] 1. Show a tag line that introduces the main concept of what it does/will do.
+<p>  [DONE] 1. Show 1-2 screenshots or pictures demonstrating the idea or parts (optional) Each person must upload a PPT slide in D2L. Each team must ensure there is a copy in their Github repository so that future coders can quickly grasp the idea.
 
-<p>[] 1. We will be looking at presentations and talking about the results during our final exam period (for non-online classes). We might experiment with some of the code too. This last date is worth some of the grade, but you can only earn the credit if you have turned in the presentation video in advance of the presentation time.
+<p>[DONE] 1. We will be looking at presentations and talking about the results during our final exam period (for non-online classes). We might experiment with some of the code too. This last date is worth some of the grade, but you can only earn the credit if you have turned in the presentation video in advance of the presentation time.
