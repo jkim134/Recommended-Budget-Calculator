@@ -1,4 +1,4 @@
-<h1>Recommended Budget Calculator Project</h>
+<h1>Recommended Budget Calculator Project</h1>
 
 In my project idea, I wanted to do a recommended budget calculator. For my program, all you have to do is input an income amount and it will automatically calculate and allocate the budget to each expense category. 
 
