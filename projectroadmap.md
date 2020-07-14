@@ -1,18 +1,18 @@
 <h1>Project Roadmap</h1>
 
-<p>[DONE] 1. Each person should have an approved project topic (Turn in Ex 6 and ensure you are listed completely in the Teams Projects Spreadsheet).
-<p>[DONE] 2. Each person should have established a Github account and joined our class organization (KSU-IS) in Github by accepting the invite email.
-<p>[DONE] 3. Each person should also be associated with ownership of a code repository in our Github organization. If on a team, ensure each has Owner or Maintainer Role.
-<p>[DONE] 4. Each person should have edited and committed changes in a readme.md file in their repository in our Github organization. The commits should show in Github.
+<p>[DONE] 1. Each person should have an approved project topic (Turn in Ex 6 and ensure you are listed completely in the Teams Projects Spreadsheet).</p>
+<p>[DONE] 2. Each person should have established a Github account and joined our class organization (KSU-IS) in Github by accepting the invite email.</p>
+<p>[DONE] 3. Each person should also be associated with ownership of a code repository in our Github organization. If on a team, ensure each has Owner or Maintainer Role.</p>
+<p>[DONE] 4. Each person should have edited and committed changes in a readme.md file in their repository in our Github organization. The commits should show in Github.</p>
 <p>[DONE] 5. Each person should have explored at least one existing Python code base related to their project to evaluate using it in their project and submitted updates to the projectroadmap.md file explaining their findings. In evaluating your codebase, you should have read the code and attempted to run it yourself.</p>
-<p>  [DONE] 5.1 Find related python code.
-    https://github.com/ksu-is/Budgeting
-<p>  [DONE] 5.2 Evaluate code and note down findings.
-    Code ran in Mircosoft Visual Studio Code.
-    Will use in project.
-    Need to add calculations.
-    Don't need expense function.
-    Make Q for quit.
+<p>  [DONE] 5.1 Find related python code.</p>
+<p>    https://github.com/ksu-is/Budgeting</p>
+<p>  [DONE] 5.2 Evaluate code and note down findings.</p>
+<p>    Code ran in Mircosoft Visual Studio Code.</p>
+<p>    Will use in project.</p>
+<p>    Need to add calculations.</p>
+<p>    Don't need expense function.</p>
+<p>    Make Q for quit.</p>
   
 <p>[DONE] 6. Each person should making small updates and adding commit messages with them in your repository in our Github organization so that your work is visible. Do this with Github desktop. Otherwise, it will appear you are not working, and you will fail to demonstrate your knowledge of the application development process, which is one of our course goals. Thus, even if you claim to be working on your own machine but fail to post updates in Github in our shared organization where the professor can see them, you will fail on this grading item. Each person should have committed at least 6 code changes of significant size (not just a spelling error fix for example). Each commit should include a comment that explains what you did. The comment must be specific (ie. not just Updated README.md but rather explain what your update was and why you did it briefly).
 <p>  [DONE] 6.1 At least 6 code changes 
