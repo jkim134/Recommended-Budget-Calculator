@@ -26,15 +26,21 @@ def main():
         if choice == '1':
             your_budget = addincome(your_budget)
         elif choice == 'q':
+            print()
             print('Goodbye!')
+            print()
             break
         elif choice == 'Q':
+            print()
             print('Thank You!')
+            print()
             break
         else:
+            print()
             print('Invalid selection, please select 1 or Q')
 
 def addincome(your_budget):
+    print()
     income = float(input('Enter income: $'))
     your_budget = income
     if your_budget >= 1:
