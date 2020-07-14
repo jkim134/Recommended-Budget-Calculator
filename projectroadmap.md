@@ -1,4 +1,4 @@
-Project Roadmap
+<h1>Project Roadmap</h1>
 
 [DONE] 1. Each person should have an approved project topic (Turn in Ex 6 and ensure you are listed completely in the Teams Projects Spreadsheet).
 [DONE] 2. Each person should have established a Github account and joined our class organization (KSU-IS) in Github by accepting the invite email.
