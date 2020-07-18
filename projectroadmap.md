@@ -53,10 +53,10 @@
   </ol>
 </p>
 
-When you finish, end the recording and let it upload for a minute or two before closing Teams. That's it. Remember, you may need to practice in advance to ensure your Teams setup is ready for presenting. Learn how to share your screen so you can show your code and any PPTs you develop.
-Original Instructions: Target 5 minutes. Upload your final presentation here. It needs to be a link to the video on YouTube, an MPEG 4 file, or a PPTX file with voice recording. Keep in mind your presentation needs to include a screen capture video of you demonstrating your code. In PowerPoint, you may need to pre-record the screen capture video and embed it into your presentation. Test and make sure everything is contained in the file you turn in and working. If it does not show when graded, it will be counted as not there.
+<p>When you finish, end the recording and let it upload for a minute or two before closing Teams. That's it. Remember, you may need to practice in advance to ensure your Teams setup is ready for presenting. Learn how to share your screen so you can show your code and any PPTs you develop.</p>
+<p>Original Instructions: Target 5 minutes. Upload your final presentation here. It needs to be a link to the video on YouTube, an MPEG 4 file, or a PPTX file with voice recording. Keep in mind your presentation needs to include a screen capture video of you demonstrating your code. In PowerPoint, you may need to pre-record the screen capture video and embed it into your presentation. Test and make sure everything is contained in the file you turn in and working. If it does not show when graded, it will be counted as not there.</p>
 
-The demonstration should include you talking about how the development went and showing what the code now does. If your code is not working, show some of the things you worked on and where you ended up stuck. I beginning title slide (Sprint 3 slide) and perhaps a slide or two explaining more about the work could also be useful.
+<p>The demonstration should include you talking about how the development went and showing what the code now does. If your code is not working, show some of the things you worked on and where you ended up stuck. I beginning title slide (Sprint 3 slide) and perhaps a slide or two explaining more about the work could also be useful.</p>
 
 
 <h2>Project Planning Needs</h2>
