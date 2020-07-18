@@ -34,29 +34,29 @@
 
 <p>[DONE] 10. Present your project. To do so, follow these instructions. Be sure to record, as I may not see your presentation otherwise, and you will not get credit for it. If you forget, re-schedule and do it again:
   <ol>
-    <li> Schedule a meeting in this channel. Allocate 10 minutes for yourself. Make sure you do not overlap anyone else. You can schedule anytime between today and May 3rd midnight.</li>
-    <li> At the scheduled time, login, turn on recording, and introduce your project (1-2 minutes)</li>
+    <li>[DONE] Schedule a meeting in this channel. Allocate 10 minutes for yourself. Make sure you do not overlap anyone else. You can schedule anytime between today and May 3rd midnight.</li>
+    <li>[DONE] At the scheduled time, login, turn on recording, and introduce your project (1-2 minutes)</li>
       <ul>
-        <li>What was the idea?</li>
-        <li>What source code/tutorials did you find?</li>
+        <li>[DONE] What was the idea?</li>
+        <li>[DONE] What source code/tutorials did you find?</li>
       </ul>
-    <li> How did your project develop?</li>
+    <li>[DONE] How did your project develop?</li>
       <ul>
-        <li>What surprised you? How did the scope change? Why?</li>
-        <li>What roadblocks did you face? How did you overcome them? (show the code and changes you made to fix it)</li>
+        <li>[DONE] What surprised you? How did the scope change? Why?</li>
+        <li>[DONE] What roadblocks did you face? How did you overcome them? (show the code and changes you made to fix it)</li>
       </ul>  
-    <li> Run it/Show the code.</li>
+    <li>[DONE] Run it/Show the code.</li>
       <ul>
-        <li>Does it run? Show what it can do even if it cannot run.</li>
-        <li>What would you do next?</li>
+        <li>[DONE] Does it run? Show what it can do even if it cannot run.</li>
+        <li>[DONE] What would you do next?</li>
       </ul>  
   </ol>
 </p>
 
-<p>When you finish, end the recording and let it upload for a minute or two before closing Teams. That's it. Remember, you may need to practice in advance to ensure your Teams setup is ready for presenting. Learn how to share your screen so you can show your code and any PPTs you develop.</p>
-<p>Original Instructions: Target 5 minutes. Upload your final presentation here. It needs to be a link to the video on YouTube, an MPEG 4 file, or a PPTX file with voice recording. Keep in mind your presentation needs to include a screen capture video of you demonstrating your code. In PowerPoint, you may need to pre-record the screen capture video and embed it into your presentation. Test and make sure everything is contained in the file you turn in and working. If it does not show when graded, it will be counted as not there.</p>
+<p>[DONE] When you finish, end the recording and let it upload for a minute or two before closing Teams. That's it. Remember, you may need to practice in advance to ensure your Teams setup is ready for presenting. Learn how to share your screen so you can show your code and any PPTs you develop.</p>
+<p>[DONE] Original Instructions: Target 5 minutes. Upload your final presentation here. It needs to be a link to the video on YouTube, an MPEG 4 file, or a PPTX file with voice recording. Keep in mind your presentation needs to include a screen capture video of you demonstrating your code. In PowerPoint, you may need to pre-record the screen capture video and embed it into your presentation. Test and make sure everything is contained in the file you turn in and working. If it does not show when graded, it will be counted as not there.</p>
 
-<p>The demonstration should include you talking about how the development went and showing what the code now does. If your code is not working, show some of the things you worked on and where you ended up stuck. I beginning title slide (Sprint 3 slide) and perhaps a slide or two explaining more about the work could also be useful.</p>
+<p>[DONE] The demonstration should include you talking about how the development went and showing what the code now does. If your code is not working, show some of the things you worked on and where you ended up stuck. I beginning title slide (Sprint 3 slide) and perhaps a slide or two explaining more about the work could also be useful.</p>
 
 
 <h2>Project Planning Needs</h2>
