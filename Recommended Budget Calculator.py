@@ -1,6 +1,6 @@
 recommendation_budget = 0
 
-def main():
+def program():
     print()
     print('Basic Recommended Budget From Chime.com' ) 
 
@@ -22,15 +22,15 @@ def main():
         print('Menu:')
         print('1 to Add your income: ')
         print('Q to Quit')
-        choice = input('Select 1 or Q: ')
-        if choice == '1':
-            your_budget = addincome(your_budget)
-        elif choice == 'q':
+        menu_options = input('Select 1 or Q: ')
+        if menu_options == '1':
+            your_budget = add_income(your_budget)
+        elif menu_options == 'q':
             print()
             print('Goodbye!')
             print()
             break
-        elif choice == 'Q':
+        elif menu_options == 'Q':
             print()
             print('Thank You!')
             print()
@@ -39,7 +39,7 @@ def main():
             print()
             print('Invalid selection, please select 1 or Q')
 
-def addincome(your_budget):
+def add_income(your_budget):
     print()
     income = float(input('Enter income: $'))
     your_budget = income
@@ -47,6 +47,6 @@ def addincome(your_budget):
         return your_budget
     else:
         print('Please enter amount over $1')
-        return addincome(your_budget)
+        return add_income(your_budget)
 
-main()
+program()
